@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Firebase, Next.js, TypeScript, devOps, System Design**
 
-- 👨‍💻 All of my projects are available at [ishan-siddhartha.vercel.app](ishan-siddhartha.vercel.app)
+- 👨‍💻 All of my projects are available at [ishan-siddhartha.vercel.app](https://ishan-siddhartha.vercel.app)
 
-- 📝 I regularly write articles on [https://app.daily.dev/ishansiddhartha](https://app.daily.dev/ishansiddhartha)
+- 📝 I regularly write articles on [daily.dev](https://app.daily.dev/ishansiddhartha)
 
 - 💬 Ask me about **react, python, c++**
 
 - 📫 How to reach me **ishansiddhartha@gmail.com**
 
-- 📄 Know about my experiences [https://ishan-siddhartha.vercel.app/resume.pdf](https://ishan-siddhartha.vercel.app/resume.pdf)
+- 📄 Know about my experiences [resume.pdf](https://ishan-siddhartha.vercel.app/resume.pdf)
 
 
 <br />
