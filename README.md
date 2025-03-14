@@ -14,7 +14,7 @@
 
  👨‍💻 All of my projects are available at [ishan-siddhartha.vercel.app](https://ishan-siddhartha.vercel.app)
 
- 📝 I regularly active on [daily.dev](https://app.daily.dev/ishansiddhartha)
+ 📝 regularly active on [daily.dev](https://app.daily.dev/ishansiddhartha)
 
  💬 Ask me about **react, python, c++**
  
