@@ -125,10 +125,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-  
-<a href="https://leetcode.com/ishansiddhartha" align="center">
+
+<div align="center">
+<a href="https://leetcode.com/ishansiddhartha">
 <img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
 </a>
+</div>
 
 <br />
 
