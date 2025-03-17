@@ -70,10 +70,10 @@
 <br />
 <div style="display: flex; align-items: center;">
   <a href="https://app.daily.dev/ishansiddhartha">
-    <img src="https://api.daily.dev/devcards/v2/4MI07WyEYDGhcPNsicRgo.png?type=wide&r=yo3" width="500" alt="Ishan Siddhartha's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/4MI07WyEYDGhcPNsicRgo.png?type=wide&r=yo3" width="400" alt="Ishan Siddhartha's Dev Card"/>
   </a>
   <a href="https://leetcode.com/ishansiddhartha">
-    <img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" alt="Leetcode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
   </a>
 </div>
 
