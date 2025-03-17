@@ -39,7 +39,7 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<table>
+<table align="center">
   <tr>
     <!-- Left column: DevCard -->
     <td valign="top">
