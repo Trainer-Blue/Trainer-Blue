@@ -38,18 +38,75 @@
 <hr />
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ishan_siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishan_siddhartha" height="30" width="40" /></a>
-<a href="https://twitter.com/1ishansidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1ishansidd1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-siddhartha-647544299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-siddhartha-647544299/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29965540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29965540" height="30" width="40" /></a>
-<a href="https://kaggle.com/ishansiddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishansiddhartha" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sidd_1shan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sidd_1shan/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ishan_siddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishan_siddhartha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishansiddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishansiddhartha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ishansidggdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ishansidggdv" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+<table>
+  <tr>
+    <!-- Left column: DevCard -->
+    <td valign="top">
+      <a href="https://app.daily.dev/ishansiddhartha">
+        <img src="./devcard.png" width="300" alt="Ishan Siddhartha's Dev Card"/>
+      </a>
+    </td>
+    <!-- Right column: Social Icons Grid -->
+    <td valign="top">
+      <table>
+        <tr>
+          <td>
+            <a href="https://dev.to/ishan_siddhartha" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://twitter.com/1ishansidd1" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://linkedin.com/in/ishan-siddhartha-647544299/" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://stackoverflow.com/users/29965540" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://kaggle.com/ishansiddhartha" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://instagram.com/sidd_1shan" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://codeforces.com/profile/ishan_siddhartha" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://www.leetcode.com/ishansiddhartha" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://auth.geeksforgeeks.org/user/ishansidggdv" target="_blank">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
 
 <br />
 
@@ -68,14 +125,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-<div style="display: flex; align-items: center;">
-  <a href="https://app.daily.dev/ishansiddhartha">
-    <img src="./devcard.png" width="400" alt="Ishan Siddhartha's Dev Card"/>
-  </a>
-  <a href="https://leetcode.com/ishansiddhartha">
-    <img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
-  </a>
-</div>
+  
+<a href="https://leetcode.com/ishansiddhartha">
+<img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
+</a>
 
 <br />
 
