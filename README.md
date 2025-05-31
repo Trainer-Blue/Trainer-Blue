@@ -132,6 +132,25 @@
 </a>
 </div>
 
+<div align="center">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202501.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202502.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202503.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202504.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202505.gif">
+</div>
+
+
+<div align="center">
+    <img width="50" src="https://assets.leetcode.com/static_assets/others/25100.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/others/2550.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+</div>
+
 <br />
 
 <hr />
