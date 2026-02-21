@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **Firebase, Next.js, TypeScript, devOps, System Design**
 
- 👨‍💻 All of my projects are available at [ishan-siddhartha.vercel.app](https://ishan-siddhartha.vercel.app)
+ 👨‍💻 All of my projects are available at [ishan-sidd.is-a.dev](https://ishan-sidd.is-a.dev)
 
  📝 regularly active on [daily.dev](https://app.daily.dev/ishansiddhartha)
 
